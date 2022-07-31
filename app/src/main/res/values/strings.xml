@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+    <string name="first_notification_title">First Notification Title</string>
+    <string name="second_notification_title">Second Notification Title</string>
+    <string name="third_notification_title">Third Notification Title</string>
+    <string name="first_notification_body">First Notification Body</string>
+    <string name="second_notification_body">Second Notification Body</string>
+    <string name="third_notification_body">Third Notification Body</string>
+</resources>
